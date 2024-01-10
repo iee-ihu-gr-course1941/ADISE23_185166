@@ -1,7 +1,7 @@
 
 <?php
 /* Information for the connection to Uni Database */
-include 'credentials.php';
+include '../credentials.php';
 
 $servername = $creds['servername'];
 $username = $creds['username'];
