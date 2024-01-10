@@ -82,7 +82,7 @@ Distributed under the GNU General Public License. See `LICENSE.txt` for more inf
 <!-- CONTACT -->
 ## Contact
 
-dean - [@deanjdevelops](https://twitter.com/codebydean) - deanj.development@gmail.com
+dean - [@codebydean](https://twitter.com/codebydean) - deanj.development@gmail.com
 
 Project Link: [https://github.com/iee-ihu-gr-course1941/ADISE23_185166](https://github.com/iee-ihu-gr-course1941/ADISE23_185166)
 
